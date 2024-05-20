@@ -2,7 +2,7 @@
 
 EFI for this specific motherboard
 
-#BIOS Settings : 
+# BIOS Settings : 
 
 # Enable
 	CSM 
@@ -24,7 +24,7 @@ EFI for this specific motherboard
 		* Your hack will not boot with CFG-Lock enabled.
 		* For 10.10 and older, you'll need to ENABLE AppleCpuPmCfgLock as well.
 
- #Compatible SMBIOS
+ # Compatible SMBIOS
 	* iMacPro1,1
 	* MacPro7,1
 Use genSMBIOS
